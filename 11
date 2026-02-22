@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-venv/
-.env
-cache/
-*.wav
-.DS_Store
