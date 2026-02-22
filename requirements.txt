@@ -1,0 +1,20 @@
+# Core API
+fastapi>=0.109.0,<0.110.0
+uvicorn>=0.27.0,<0.28.0
+python-multipart>=0.0.6
+
+# ML / Deep Learning
+torch>=2.2.0,<2.3.0
+transformers>=4.38.0,<4.39.0
+
+# Audio Processing
+librosa>=0.10.1,<0.11.0
+soundfile>=0.12.1,<0.13.0
+
+# Data & Validation
+numpy>=1.26.0,<1.27.0
+pydantic>=2.6.0,<2.7.0
+
+# Compatibility fixes 
+setuptools<70.0.0
+importlib-metadata>=4.0.0
